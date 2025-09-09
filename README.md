@@ -155,4 +155,12 @@ Para rodar em produção, recomenda-se utilizar:
 
 ---
 
-👉 Esse setup foi pensado para quem quer **subir rápido o Airflow localmente** e testar DAGs sem complexidade extra.  
+👉 Esse setup foi pensado para quem quer **subir rápido o Airflow localmente** e testar DAGs sem complexidade extra.
+
+---
+
+## 🔗 Referência adicional
+
+Este projeto foi inspirado também no artigo da Dataquest, que mostra como configurar o **Apache Airflow com Docker localmente**:
+
+👉 [Setting up Apache Airflow with Docker locally (Dataquest Blog)](https://www-dataquest-io.translate.goog/blog/setting-up-apache-airflow-with-docker-locally-part-i/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
