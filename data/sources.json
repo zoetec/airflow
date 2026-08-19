@@ -1,10 +1,434 @@
 [
-  {"id":"chaves-na-mao-florianopolis","name":"Chaves na Mão - Florianópolis","url":"https://www.chavesnamao.com.br/imoveis-para-alugar/sc-florianopolis/","status":"active"},
-  {"id":"aldo-imoveis","name":"Aldo Imóveis","url":"https://aldoimoveis.com.br","status":"pending_review"},
-  {"id":"aluguinvest","name":"Aluguinvest","url":"https://www.aluguinvest.com.br","status":"pending_review"},
-  {"id":"brognoli","name":"Brognoli Imóveis","url":"https://www.brognoli.com.br","status":"pending_review"},
-  {"id":"ibagy","name":"Ibagy","url":"https://ibagy.com.br/","status":"pending_review"},
-  {"id":"quinto-andar","name":"QuintoAndar","url":"https://www.quintoandar.com.br","status":"pending_review"},
-  {"id":"vivareal","name":"Viva Real","url":"https://www.vivareal.com.br","status":"pending_review"},
-  {"id":"zap-imoveis","name":"ZAP Imóveis","url":"https://www.zapimoveis.com.br","status":"pending_review"}
+  {
+    "id": "aldo-imoveis",
+    "name": "Aldo Imóveis",
+    "url": "https://aldoimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "aldoimoveis.com.br"
+  },
+  {
+    "id": "aluguinvest",
+    "name": "Aluguinvest",
+    "url": "https://www.aluguinvest.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "aluguinvest.com.br"
+  },
+  {
+    "id": "andreacardoso-com-br",
+    "name": "Andrea Cardoso Imóveis",
+    "url": "https://andreacardoso.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "andreacardoso.com.br"
+  },
+  {
+    "id": "apolar-com-br",
+    "name": "Apolar",
+    "url": "https://apolar.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "apolar.com.br"
+  },
+  {
+    "id": "auxiliadorapredial-com-br",
+    "name": "Auxiliadora Predial",
+    "url": "https://auxiliadorapredial.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "auxiliadorapredial.com.br"
+  },
+  {
+    "id": "brognoli",
+    "name": "Brognoli Imóveis",
+    "url": "https://www.brognoli.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "brognoli.com.br"
+  },
+  {
+    "id": "cambirelaimoveis-com-br",
+    "name": "Cambirela Imóveis",
+    "url": "https://cambirelaimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "cambirelaimoveis.com.br"
+  },
+  {
+    "id": "casamineira-com-br",
+    "name": "Casa Mineira",
+    "url": "https://casamineira.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "casamineira.com.br"
+  },
+  {
+    "id": "chaves-na-mao-florianopolis",
+    "name": "Chaves Na Mão",
+    "url": "https://www.chavesnamao.com.br/imoveis-para-alugar/sc-florianopolis/",
+    "status": "active",
+    "city": "Florianópolis",
+    "normalized_domain": "chavesnamao.com.br"
+  },
+  {
+    "id": "cidadesimobiliaria-com-br",
+    "name": "Cidades Imobiliária",
+    "url": "https://cidadesimobiliaria.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "cidadesimobiliaria.com.br"
+  },
+  {
+    "id": "cliqueimudei-com",
+    "name": "CliqueiMudei",
+    "url": "https://cliqueimudei.com",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "cliqueimudei.com"
+  },
+  {
+    "id": "conceituareimobiliaria-com-br",
+    "name": "conceituareimobiliaria",
+    "url": "https://conceituareimobiliaria.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "conceituareimobiliaria.com.br"
+  },
+  {
+    "id": "costaosul-com",
+    "name": "Costão Sul Imóveis",
+    "url": "https://costaosul.com",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "costaosul.com"
+  },
+  {
+    "id": "daltonandrade-com-br",
+    "name": "Dalton Andrade",
+    "url": "https://daltonandrade.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "daltonandrade.com.br"
+  },
+  {
+    "id": "dudaimoveis-com-br",
+    "name": "Duda Imóveis",
+    "url": "https://dudaimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "dudaimoveis.com.br"
+  },
+  {
+    "id": "f1ciaimobiliaria-com-br",
+    "name": "F1 Cia. Imobiliária",
+    "url": "https://f1ciaimobiliaria.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "f1ciaimobiliaria.com.br"
+  },
+  {
+    "id": "feelinimoveis-com-br",
+    "name": "Feelin Imóveis",
+    "url": "https://feelinimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "feelinimoveis.com.br"
+  },
+  {
+    "id": "giacomelli-com-br",
+    "name": "Giacomelli Imóveis",
+    "url": "https://giacomelli.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "giacomelli.com.br"
+  },
+  {
+    "id": "gralhaalugueis-com-br",
+    "name": "Gralha Alugueis",
+    "url": "https://gralhaalugueis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "gralhaalugueis.com.br"
+  },
+  {
+    "id": "grannimoveis-com-br",
+    "name": "Grann Imóveis",
+    "url": "https://grannimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "grannimoveis.com.br"
+  },
+  {
+    "id": "ibagy",
+    "name": "Ibagy",
+    "url": "https://ibagy.com.br/",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "ibagy.com.br"
+  },
+  {
+    "id": "icaimoveis-com-br",
+    "name": "ICA Imóveis",
+    "url": "https://icaimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "icaimoveis.com.br"
+  },
+  {
+    "id": "boavistaimobiliaria-com-br",
+    "name": "Imobiliária Boavista",
+    "url": "https://boavistaimobiliaria.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "boavistaimobiliaria.com.br"
+  },
+  {
+    "id": "imobr-com-br",
+    "name": "imoBR",
+    "url": "https://imobr.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imobr.com.br"
+  },
+  {
+    "id": "creditoreal-com-br",
+    "name": "Imóveis Crédito Real",
+    "url": "https://creditoreal.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "creditoreal.com.br"
+  },
+  {
+    "id": "imoveis-sc-com-br",
+    "name": "Imóveis-SC",
+    "url": "https://imoveis-sc.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imoveis-sc.com.br"
+  },
+  {
+    "id": "imoveismm-com-br",
+    "name": "imoveismm",
+    "url": "https://imoveismm.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imoveismm.com.br"
+  },
+  {
+    "id": "imovelweb-com-br",
+    "name": "Imovelweb",
+    "url": "https://imovelweb.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imovelweb.com.br"
+  },
+  {
+    "id": "imoveisjj-com-br",
+    "name": "JJ Imobiliária",
+    "url": "https://imoveisjj.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imoveisjj.com.br"
+  },
+  {
+    "id": "kabral-com-br",
+    "name": "Kabral Imóveis",
+    "url": "https://kabral.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "kabral.com.br"
+  },
+  {
+    "id": "kzueimoveis-com-br",
+    "name": "kzueimoveis",
+    "url": "https://kzueimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "kzueimoveis.com.br"
+  },
+  {
+    "id": "liderancaimobiliaria-com-br",
+    "name": "LIDERANÇA IMOBILIÁRIA",
+    "url": "https://liderancaimobiliaria.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "liderancaimobiliaria.com.br"
+  },
+  {
+    "id": "maisimoveisbelem-com-br",
+    "name": "maisimoveisbelem.com.br",
+    "url": "https://maisimoveisbelem.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "maisimoveisbelem.com.br"
+  },
+  {
+    "id": "mansoesflorianopolis-com-br",
+    "name": "Mansões Florianópolis",
+    "url": "https://mansoesflorianopolis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "mansoesflorianopolis.com.br"
+  },
+  {
+    "id": "metropolis-imb-br",
+    "name": "metropolis imb",
+    "url": "https://metropolis.imb.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "metropolis.imb.br"
+  },
+  {
+    "id": "mgfimoveis-com-br",
+    "name": "MGF Imóveis",
+    "url": "https://mgfimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "mgfimoveis.com.br"
+  },
+  {
+    "id": "myside-com-br",
+    "name": "MySide",
+    "url": "https://myside.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "myside.com.br"
+  },
+  {
+    "id": "olx-com-br",
+    "name": "OLX",
+    "url": "https://olx.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "olx.com.br"
+  },
+  {
+    "id": "paesimoveis-com",
+    "name": "Paes Imóveis",
+    "url": "https://paesimoveis.com",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "paesimoveis.com"
+  },
+  {
+    "id": "piramides-com-br",
+    "name": "piramides",
+    "url": "https://piramides.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "piramides.com.br"
+  },
+  {
+    "id": "proprietariodireto-com-br",
+    "name": "Proprietário Direto",
+    "url": "https://proprietariodireto.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "proprietariodireto.com.br"
+  },
+  {
+    "id": "quinto-andar",
+    "name": "Quinto Andar",
+    "url": "https://www.quintoandar.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "quintoandar.com.br"
+  },
+  {
+    "id": "imobiliariaraffinata-com-br",
+    "name": "raffinata imobiliaria",
+    "url": "https://imobiliariaraffinata.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "imobiliariaraffinata.com.br"
+  },
+  {
+    "id": "realizarimoveisfloripa-com-br",
+    "name": "Realizar Imóveis",
+    "url": "https://realizarimoveisfloripa.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "realizarimoveisfloripa.com.br"
+  },
+  {
+    "id": "rentola-com-br",
+    "name": "Rentola",
+    "url": "https://rentola.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "rentola.com.br"
+  },
+  {
+    "id": "rkboutiqueimoveis-com-br",
+    "name": "RK Boutique Imóveis",
+    "url": "https://rkboutiqueimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "rkboutiqueimoveis.com.br"
+  },
+  {
+    "id": "sanremoimoveis-com-br",
+    "name": "San Remo Imóveis",
+    "url": "https://sanremoimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "sanremoimoveis.com.br"
+  },
+  {
+    "id": "santailha-com-br",
+    "name": "Santa Ilha Imóveis",
+    "url": "https://santailha.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "santailha.com.br"
+  },
+  {
+    "id": "smolkaimoveis-com-br",
+    "name": "Smolka Imóveis",
+    "url": "https://smolkaimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "smolkaimoveis.com.br"
+  },
+  {
+    "id": "thiagoimoveis-com-br",
+    "name": "thiagoimoveis",
+    "url": "https://thiagoimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "thiagoimoveis.com.br"
+  },
+  {
+    "id": "toemcasa-com-br",
+    "name": "To em casa",
+    "url": "https://toemcasa.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "toemcasa.com.br"
+  },
+  {
+    "id": "vivafloripaimoveis-com-br",
+    "name": "Viva Floripa Imóveis",
+    "url": "https://vivafloripaimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "vivafloripaimoveis.com.br"
+  },
+  {
+    "id": "vivareal",
+    "name": "Viva Real",
+    "url": "https://www.vivareal.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "vivareal.com.br"
+  },
+  {
+    "id": "zap-imoveis",
+    "name": "Zap Imóveis",
+    "url": "https://www.zapimoveis.com.br",
+    "status": "pending_review",
+    "city": "Florianópolis",
+    "normalized_domain": "zapimoveis.com.br"
+  }
 ]

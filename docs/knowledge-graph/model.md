@@ -1,6 +1,7 @@
 # Grafo de conhecimento
 
 `SearchQuery -> discovers -> CandidateSource`
+`SourceSpreadsheet -> imports -> SourceCatalog`
 `CandidateSource -> reconciles_with -> SourceCatalog`
 `SourceCatalog -> authorizes -> CollectionRun`
 `CollectionRun -> preserves -> Evidence`
