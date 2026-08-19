@@ -1,0 +1,10 @@
+[
+  {"id":"chaves-na-mao-florianopolis","name":"Chaves na Mão - Florianópolis","url":"https://www.chavesnamao.com.br/imoveis-para-alugar/sc-florianopolis/","status":"active"},
+  {"id":"aldo-imoveis","name":"Aldo Imóveis","url":"https://aldoimoveis.com.br","status":"pending_review"},
+  {"id":"aluguinvest","name":"Aluguinvest","url":"https://www.aluguinvest.com.br","status":"pending_review"},
+  {"id":"brognoli","name":"Brognoli Imóveis","url":"https://www.brognoli.com.br","status":"pending_review"},
+  {"id":"ibagy","name":"Ibagy","url":"https://ibagy.com.br/","status":"pending_review"},
+  {"id":"quinto-andar","name":"QuintoAndar","url":"https://www.quintoandar.com.br","status":"pending_review"},
+  {"id":"vivareal","name":"Viva Real","url":"https://www.vivareal.com.br","status":"pending_review"},
+  {"id":"zap-imoveis","name":"ZAP Imóveis","url":"https://www.zapimoveis.com.br","status":"pending_review"}
+]
